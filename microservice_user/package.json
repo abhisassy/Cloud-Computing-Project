@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "csv": "^0.3.7",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "is-base64": "^0.1.0",
     "node-pre-gyp": "^0.12.0",
